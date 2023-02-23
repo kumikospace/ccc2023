@@ -21,9 +21,3 @@ for i in Edict.keys():
 
 F = F.rstrip(",")
 print(F)
-        
-    
-
-
-    
-
